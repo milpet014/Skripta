@@ -1,0 +1,16 @@
+services:
+    skripta:
+        image: zensical/zensical
+        container_name: skripta
+        working_dir: /docs
+        volumes:
+            - ../data:/docs
+        restart: unless-stopped
+        networks:
+            - proxy
+        ports:
+            - "8104:8000"
+        
+networks:
+    proxy:
+        external: true
