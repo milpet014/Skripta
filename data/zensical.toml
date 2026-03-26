@@ -62,6 +62,10 @@ nav = [
 
   {"Matematicka analýza 2" = [
     "matalyza-2/index.md"
+  ]},
+
+  {"Matematicka anal  za 2" = [
+    "matalyza-2/index.md"
   ]}
 ]
 
