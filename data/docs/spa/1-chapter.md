@@ -271,3 +271,5 @@ Súčasný problém preto nespočíva iba v tom, kto má s malými deťmi pracov
     Vývoj predškolského sektora na Slovensku sa pohyboval od filantropickej sociálnej ochrany cez zdravotnícko-výchovný model až k dnešnému dôrazu na vzdelávanie a školskú pripravenosť. Tento vývoj však neviedol k harmonickému usporiadaniu profesií. Naopak, zanechal po sebe rozštiepenie medzi starostlivosťou a didaktikou, medzi zdravotníctvom, sociálnou službou a školstvom, ako aj medzi formálnou kvalifikáciou a skutočne diferencovanou pracovnou náplňou.
 
     Súčasný problém teda nespočíva iba v tom, kto má s malými deťmi pracovať, ale aj v tom, ako je samotná práca pomenovaná, organizovaná a profesijne uznaná. Skutočnou výzvou nie je len ďalšie rozširovanie systému, ale vytvorenie takej profesijnej štruktúry, ktorá bude primerane odrážať zložitosť predškolskej reality.
+
+[Oficiálna prezentácia [2026]](https://cloud.milpet.eu/s/5c8EqTwYqFgmr8q){ .md-button }
