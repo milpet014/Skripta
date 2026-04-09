@@ -131,7 +131,7 @@ Pre úspešné absolvovanie predmetu je potrebná realizácia nekontaktnej čast
 
 - doc. RNDr. Dušan Holý, CSc., univer. prof. — prednášajúci, skúšajúci, cvičiaci, vedúci semináru
   
-<a href=https://student.truni.sk/maisportal>
+<a href=https://student.truni.sk/maisportal target="_blank">
     <button class="md-button md-button--primary">
     Zdroj
     </button>

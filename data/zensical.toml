@@ -69,7 +69,24 @@ nav = [
 
   {"SPA" = [
     "spa/index.md",
-    "spa/1-chapter.md"
+    "spa/1-chapter.md",
+    "spa/2-chapter.md",
+    "spa/3-chapter.md",
+    "spa/4-chapter.md",
+    "spa/5-chapter.md",
+    "spa/6-chapter.md",
+    "spa/7-chapter.md"
+  ]},
+
+  {"AkPi" = [
+    "AkPi/index.md",
+    "AkPi/1-chapter.md",
+    "AkPi/2-chapter.md",
+    "AkPi/3-chapter.md",
+    "AkPi/4-chapter.md",
+    "AkPi/5-chapter.md",
+    "AkPi/6-chapter.md",
+    "AkPi/7-chapter.md"
   ]}
 ]
 

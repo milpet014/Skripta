@@ -1,17 +1,17 @@
 ---
-icon: fontawesome/solid/user-tie
+icon: fontawesome/solid/superscript
 ---
 
-# Školská politika a administratíva
+# Akademické písanie
 
 ## Základné informácie
 
 | Položka | Hodnota |
 |---|---|
-| Kód | XPZB304 |
-| Názov | Školská politika a administratíva |
+| Kód | XPZB313 |
+| Názov | Akademické písanie |
 | Zabezpečuje | Katedra školskej pedagogiky |
-| Druh vzdelávacej činnosti | Prednáška |
+| Druh vzdelávacej činnosti | Seminár |
 | Počet kreditov | 3 |
 | Odporúčaný semester | LS |
 | Stupeň štúdia | 1. |
@@ -30,14 +30,15 @@ icon: fontawesome/solid/user-tie
 
 ## Odporúčaný semester a študijné programy
 
+### 1. rok LS
+
+- učiteľstvo pre základné školy pre vzdelávaciu oblasť matematika a informatika (XYVOMaI)
+
 ### 2. rok LS
 
 - Spolocensko_vedny_zaklad_Bc (XSVZ_Bc_UAP)
 - animácia výtvarného umenia (XAVU-D1)
 - učiteľstvo anglického jazyka a literatúry (XAJL-D1)
-- učiteľstvo pre základné školy pre vzdelávaciu oblasť matematika a informatika (XYVOMaI)
-- učiteľstvo pre základné školy pre vzdelávaciu oblasť človek a príroda (XYVOČaP)
-- učiteľstvo pre základné školy pre vzdelávaciu oblasť človek a spoločnosť (XYVOČaS)
 - učiteľstvo matematiky a výtvarného umenia (XM-Vu-D1)
 - učiteľstvo histórie a výtvarného umenia (xHis-Vu D1)
 - učiteľstvo matematiky a histórie (XM-His D1)
@@ -105,56 +106,55 @@ icon: fontawesome/solid/user-tie
 
 ### Priebežné hodnotenie
 
-Vypracovanie tematického zadania za maximálne 40 bodov, pričom na úspešné splnenie je potrebných minimálne 20 bodov.
+Podmienkou absolvovania predmetu je účasť na seminároch, vypracúvanie jednotlivých zadaní a realizácia nekontaktnej časti predmetu formou samoštúdia. Táto časť je realizovaná najmä štúdiom odporúčanej literatúry a prácou na kultivácii vlastného jazykového prejavu.
 
 ### Záverečné hodnotenie
 
-Test za maximálne 60 bodov, pričom na úspešné splnenie je potrebných minimálne 30 bodov.
+Písomný test v skúškovom období za maximálne 100 bodov.
 
 ### Ukončenie
 
-Na základe súčtu bodov získaných z priebežného zadania a záverečného testu.
+Výsledné hodnotenie zodpovedá bodovému súčtu priebežného a záverečného hodnotenia.
 
-Tematické zadanie spracúva študent výberom jednej z tém osnovy predmetu. Práca musí byť spracovaná na 5 strán. Hodnotí sa výber zdrojov, štruktúra textu, miera syntézy spracovania, správnosť akademického písania a aktuálnosť spracovania.
+- hodnotenie **A**: najmenej 91 bodov
+- hodnotenie **B**: najmenej 81 bodov
+- hodnotenie **C**: najmenej 71 bodov
+- hodnotenie **D**: najmenej 61 bodov
+- hodnotenie **E**: najmenej 51 bodov
 
-Test má charakter testu s uzavretými položkami a obsahuje otázky faktického a aplikačného charakteru. Test zisťuje mieru osvojenia relevantných poznatkov z obsahu kurzu a správnosť ich aplikačného využitia v učiteľskej praxi.
+Kredity nebudú udelené študentovi, ktorý nesplní minimálne kritériá priebežného hodnotenia alebo za niektorú časť hodnotenia získa 0 bodov.
 
 ## Výsledky vzdelávania
 
-- Študent pozná základné princípy správy vzdelávania na národnej a medzinárodnej úrovni.
-- Študent je schopný identifikovať politiky, ktoré vstupujú do rozhodovaní o vzdelávaní na úrovni celého školského systému a jeho jednotlivých komponentov.
-- Študent vie predvídať rozvoj vzdelávacieho systému pre blízku perspektívu.
-- Študent je zorientovaný v školskej legislatíve a aplikuje ju pre potreby učiteľskej práce.
-- Študent pozná inštitucionálnu architektúru celého vzdelávacieho systému a štruktúru moci jednotlivých aktérov, ktorí vzdelávaciu politiku formujú a vykonávajú.
+- **VV1:** Študent dokáže vyhľadať relevantné odborné informačné zdroje.
+- **VV2:** Študent dokáže rozlíšiť korektné a nekorektné parafrázovanie a citovanie.
+- **VV3:** Študent dokáže aplikovať poznatky o správnom parafrázovaní a citovaní pri tvorbe odborného textu.
+- **VV4:** Študent dokáže náležitým spôsobom formálne upraviť text.
+- **VV5:** Študent dokáže kriticky posúdiť jazykovú úroveň rozličných akademických textov.
+- **VV6:** Študent dokáže zdôvodniť zmysel vzdelávania učiteľov v oblasti práce s informačnými zdrojmi.
 
 ## Stručná osnova predmetu
 
-1. Školská politika a jej základní hráči v národnom a medzinárodnom prostredí
-2. Základné kontúry vývoja školskej politiky v SR v 20. storočí do súčasnosti
-3. Architektúra slovenského vzdelávacieho systému na pozadí medzinárodných porovnaní
-4. Centrálna, regionálna a lokálna moc v správe vzdelávania
-5. Politiky formovania raného a predškolského vzdelávania
-6. Politiky formovania základného vzdelávania
-7. Politiky formovania vyššieho sekundárneho vzdelávania a odbornej prípravy
-8. Kurikulárna a učebnicová politika
-9. Politiky učiteľskej profesie a ich legislatívne vyjadrenie
-10. Podporné služby v školskom systéme
-11. Školská administratíva a dokumentačná agenda školy
+- Spisovná norma a kodifikačné príručky.
+- Technická norma ISO 690 a ISO 690:2012.
+- Špecifiká odborných textov.
+- Parafráza a citácia.
+- Citovanie elektronických a neštandardných zdrojov.
+- Citovanie zdrojov s neúplnými vydavateľskými údajmi.
+- Zoznam použitej literatúry.
+- Nadvetné jednotky textu – kapitola, podkapitola, odsek.
+- Obsahová štruktúra akademického textu.
+- Vyhľadávanie relevantných informačných zdrojov.
 
 ## Literatúra
 
-1. European Commission / EACEA / Eurydice, 2018. *The Structure of the European Education Systems 2018/19: Schematic Diagrams*. Eurydice Facts and Figures. Luxembourg: Publications Office of the European Union.
-2. European Commission / EACEA / Eurydice, 2021. *Compulsory Education in Europe – 2021/22*. Eurydice Facts and Figures. Luxembourg: Publications Office of the European Union.
-3. *International Standard Classification of Education 2011*. Montreal: UNESCO Institute of Statistics, 2012.
-4. Kaščák, O. – Pupala, B.: *Škola zlatých golierov. Vzdelávanie v ére neoliberalizmu*. Praha: Sociologické nakladatelství (SLON), 2012.
-5. Kalous, J. – Veselý, A. (Eds.): *Teorie a nástroje vzdělávací politiky*. Praha: Karolinum, 2007.
-6. Kaščák, O. – Pupala, B. – Marchevský, P.: *Vybrané aspekty školskej politiky v optike slovenskej verejnosti*. Bratislava: Centrum pedagogického výskumu v ÚVSK SAV, 2012.
-7. Pupala, B.: *Vzdelanie – školská politika – kultúra*. Bratislava: Raabe, 2022.
-8. Rehúš, M.: *Analýza kurikula v základných školách. Encyklopedizmus náš každodenný*. Bratislava: IVP MŠVVŠ SR. <https://www.minedu.sk/data/att/13792.pdf>
-9. Rehúš, M.: *Analýza kariérového systému učiteľov na Slovensku*. IVP MŠVVŠ SR. <https://www.minedu.sk/data/att/11848.pdf>
-10. Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
-11. Zákon č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
-12. Zákon č. 317/2009 Z. z. o pedagogických zamestnancoch a odborných zamestnancoch a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+1. *Pravidlá slovenského pravopisu*. 4., nezmenené vydanie. Red. M. Považaj. Bratislava: Veda, 2013.
+2. *Slovenská technická norma ISO 690. Techniky a príklady citovania podľa STN ISO 690: 2012*. Bratislava: MPC, 2018.
+3. *Smernica rektora Trnavskej univerzity v Trnave č. 20/2011*.
+4. KATUŠČÁK, D.: *Ako písať záverečné a kvalifikačné práce*. ENIGMA, 2013.
+5. TURABIAN, K.: *A Manual for Writers of Research Papers, Theses, and Dissertations*. 9. ed. Chicago: The University of Chicago Press, 2018.
+6. MIKUŠIAK, M.: *Esej*. In: *Jazykovedný časopis*, roč. 65, č. 1 (2014), s. 37–50. Dostupné na: <https://www.degruyter.com/downloadpdf/j/jazcas.2014.65.issue-1/jazcas-2014-0003/jazcas-2014-0003.pdf>
+7. MIKUŠIAK, M.: *Ako na seminárnu, bakalársku, diplomovú prácu*. [online prednáška]. Dostupné na: <https://pdf.truni.sk/katedry/ksj/pracovnici?mikusiak#materialy>
 
 ## Poznámky
 
@@ -162,17 +162,19 @@ Test má charakter testu s uzavretými položkami a obsahuje otázky faktického
 
 ## Hodnotenie predmetov
 
-| Celkový počet hodnotených študentov | 331 |
+| Celkový počet hodnotených študentov | 419 |
 |---|---|
 
 | A | B | C | D | E | FX |
 |---|---|---|---|---|---|
-| 48 % | 18 % | 8 % | 6 % | 8 % | 12 % |
+| 11 % | 24 % | 25 % | 15 % | 16 % | 9 % |
 
 ## Vyučujúci
 
-- Dr. habil. PaedDr. Ing. István Szőköl, PhD. — prednášajúci, skúšajúci, cvičiaci, vedúci semináru
-- prof. PhDr. Branislav Pupala, CSc. — prednášajúci, skúšajúci, cvičiaci, vedúci semináru
+- Mgr. Marek Mikušiak, PhD. — skúšajúci, cvičiaci, vedúci semináru
+- Mgr. Jana Fúsková, PhD. — skúšajúci, cvičiaci, vedúci semináru
+
+### Zdroj
 
 <a href=https://student.truni.sk/maisportal target="_blank">
     <button class="md-button md-button--primary">

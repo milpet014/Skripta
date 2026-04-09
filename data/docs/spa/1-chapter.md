@@ -2,6 +2,10 @@
 icon: fontawesome/solid/person-breastfeeding
 --- 
 
+<button class="md-button md-button--primary" onclick="window.print()">
+  Tlačiť
+</button>
+
 # Od opatrovateliek k učiteľkám
 
 ## Peripetie predškolského vzdelávania na Slovensku
@@ -272,7 +276,7 @@ Súčasný problém preto nespočíva iba v tom, kto má s malými deťmi pracov
 
     Súčasný problém teda nespočíva iba v tom, kto má s malými deťmi pracovať, ale aj v tom, ako je samotná práca pomenovaná, organizovaná a profesijne uznaná. Skutočnou výzvou nie je len ďalšie rozširovanie systému, ale vytvorenie takej profesijnej štruktúry, ktorá bude primerane odrážať zložitosť predškolskej reality.
 
-<a href=https://cloud.milpet.eu/s/5c8EqTwYqFgmr8q>
+<a href=https://cloud.milpet.eu/s/5c8EqTwYqFgmr8q target="_blank">
     <button class="md-button md-button--primary">
     Oficiálna prezentácia [2026]
     </button>
