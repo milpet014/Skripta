@@ -8,6 +8,8 @@
 
 [project]
 
+extra_css = ["stylesheets/print.css"]
+
 repo_url = "https://github.com/milpet014/Skripta"
 
 # The site_name is shown in the page header and the browser window title
@@ -57,6 +59,7 @@ nav = [
     "algebra-2/4-lesson.md",
     "algebra-2/5-lesson.md",
     "algebra-2/6-lesson.md",
+    "algebra-2/7-lesson.md",
     "algebra-2/tahak-1.md"
   ]},
 

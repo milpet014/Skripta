@@ -272,4 +272,8 @@ Súčasný problém preto nespočíva iba v tom, kto má s malými deťmi pracov
 
     Súčasný problém teda nespočíva iba v tom, kto má s malými deťmi pracovať, ale aj v tom, ako je samotná práca pomenovaná, organizovaná a profesijne uznaná. Skutočnou výzvou nie je len ďalšie rozširovanie systému, ale vytvorenie takej profesijnej štruktúry, ktorá bude primerane odrážať zložitosť predškolskej reality.
 
-[Oficiálna prezentácia [2026]](https://cloud.milpet.eu/s/5c8EqTwYqFgmr8q){ .md-button }
+<a href=https://cloud.milpet.eu/s/5c8EqTwYqFgmr8q>
+    <button class="md-button md-button--primary">
+    Oficiálna prezentácia [2026]
+    </button>
+<a>

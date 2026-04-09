@@ -2,6 +2,10 @@
 icon: fontawesome/solid/6
 ---
 
+<button class="md-button md-button--primary" onclick="window.print()">
+  Tlačiť
+</button>
+
 # Šiesty týždeň
 
 ## Algebra a analytická geometria

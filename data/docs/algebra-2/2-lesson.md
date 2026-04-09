@@ -1,6 +1,11 @@
 ---
 icon: fontawesome/solid/2
 --- 
+
+<button class="md-button md-button--primary" onclick="window.print()">
+  Tlačiť
+</button>
+
 # Druhý týždeň
 
 ## Redukovaný zvyškový systém, multiplikatívna grupa modulo \( m \) a Eulerova veta

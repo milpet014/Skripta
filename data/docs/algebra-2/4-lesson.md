@@ -2,6 +2,10 @@
 icon: fontawesome/solid/4
 ---
 
+<button class="md-button md-button--primary" onclick="window.print()">
+  Tlačiť
+</button>
+
 # Štvrtý týždeň
 
 ## Cykly, transpozície a rád prvku

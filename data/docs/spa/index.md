@@ -174,6 +174,8 @@ Test má charakter testu s uzavretými položkami a obsahuje otázky faktického
 - Dr. habil. PaedDr. Ing. István Szőköl, PhD. — prednášajúci, skúšajúci, cvičiaci, vedúci semináru
 - prof. PhDr. Branislav Pupala, CSc. — prednášajúci, skúšajúci, cvičiaci, vedúci semináru
 
-### Zdroj
-
-[TRUNI MAIS portal](https://student.truni.sk/maisportal)
+<a href=https://student.truni.sk/maisportal>
+    <button class="md-button md-button--primary">
+    Zdroj
+    </button>
+<a>

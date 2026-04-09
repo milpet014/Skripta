@@ -1,0 +1,109 @@
+@media print {
+  /* Schovaj veci, ktoré na papieri netreba */
+  .md-header,
+  .md-tabs,
+  .md-sidebar,
+  .md-footer,
+  .md-top,
+  .md-search,
+  .md-source,
+  button[onclick*="print"] {
+    display: none !important;
+  }
+
+  /* Roztiahni obsah na šírku stránky */
+  .md-main,
+  .md-main__inner,
+  .md-content,
+  .md-content__inner,
+  .md-typeset {
+    max-width: none !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: block !important;
+  }
+
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  a,
+  a:visited {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+
+  /* Nadpisy nech sa nelámu škaredo a neostanú samé dole */
+  .md-typeset h1,
+  .md-typeset h2,
+  .md-typeset h3 {
+    break-before: auto !important;
+    page-break-before: auto !important;
+
+    break-after: avoid-page !important;
+    page-break-after: avoid !important;
+
+    break-inside: avoid-page !important;
+    page-break-inside: avoid !important;
+
+    margin-top: 0.9em !important;
+    margin-bottom: 0.35em !important;
+  }
+
+  /* Nadpis drž s prvým blokom pod ním */
+  .md-typeset h1 + *,
+  .md-typeset h2 + *,
+  .md-typeset h3 + * {
+    break-before: avoid-page !important;
+    page-break-before: avoid !important;
+  }
+
+  /* Bloky, ktoré nechceš rozsekané cez dve strany */
+  .md-typeset table,
+  .md-typeset pre,
+  .md-typeset blockquote,
+  .md-typeset .admonition,
+  .md-typeset .highlight,
+  .md-typeset .tabbed-set,
+  .md-typeset img,
+  .md-typeset figure {
+    break-inside: avoid-page !important;
+    page-break-inside: avoid !important;
+  }
+
+  /* Odseky nech nemajú osamelý riadok hore alebo dole */
+  .md-typeset p,
+  .md-typeset li {
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* Tabuľky nech sú čitateľnejšie na A4 */
+  .md-typeset table {
+    width: 100% !important;
+    font-size: 0.95em !important;
+  }
+
+  /* Užitočné, ak chceš niekde ručne zalomiť stranu */
+  .page-break {
+    break-before: page !important;
+    page-break-before: always !important;
+  }
+}
+
+@page {
+  size: A4;
+  margin: 18mm 15mm 16mm 15mm;
+
+  @bottom-center {
+    content: counter(page);
+    font-size: 9pt;
+  }
+}

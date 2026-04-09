@@ -2,6 +2,10 @@
 icon: fontawesome/solid/5
 ---
 
+<button class="md-button md-button--primary" onclick="window.print()">
+  Tlačiť
+</button>
+
 # Piaty týždeň
 
 ## Rád prvku, cyklické podgrupy, podgrupy a Lagrangeova veta

@@ -146,5 +146,8 @@ Podmienkou absolvovania predmetu je aj realizácia nekontaktnej časti výučby 
 
 - doc. RNDr. Milan Paštéka, CSc. — prednášajúci, skúšajúci, cvičiaci, vedúci semináru
 
-### Zdroj
-[TRUNI MAIS portal](https://student.truni.sk/maisportal)
+<a href=https://student.truni.sk/maisportal>
+    <button class="md-button md-button--primary">
+    Zdroj
+    </button>
+<a>

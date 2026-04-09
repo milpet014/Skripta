@@ -2,6 +2,10 @@
 icon: fontawesome/solid/1
 ---
 
+<button class="md-button md-button--primary" onclick="window.print()">
+  Tlačiť
+</button>
+
 # Prvý týždeň
 
 ## Grupy a kongruencie

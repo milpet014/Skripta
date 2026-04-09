@@ -2,6 +2,10 @@
 icon: fontawesome/solid/3
 ---
 
+<button class="md-button md-button--primary" onclick="window.print()">
+  Tlačiť
+</button>
+
 # Tretí týždeň
 
 ## Permutácie, grupa permutácií, podgrupy a cyklické podgrupy
