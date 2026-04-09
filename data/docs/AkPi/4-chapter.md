@@ -6,10 +6,6 @@ icon: fontawesome/solid/quote-left
   Tlačiť
 </button>
 
----
-icon: fontawesome/solid/1
----
-
 # Parafrázovanie a hranice plagiarizmu
 
 ## Úvod do témy
