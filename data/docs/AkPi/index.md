@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/superscript
+icon: fontawesome/solid/book
 ---
 
 # Akademické písanie

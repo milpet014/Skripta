@@ -60,7 +60,10 @@ nav = [
     "algebra-2/5-lesson.md",
     "algebra-2/6-lesson.md",
     "algebra-2/7-lesson.md",
-    "algebra-2/tahak-1.md"
+    "algebra-2/8-lesson.md",
+    "algebra-2/9-lesson.md",
+    "algebra-2/tahak-1.md",
+    "algebra-2/tahak-2.md"
   ]},
 
   {"MA2" = [
@@ -87,6 +90,13 @@ nav = [
     "AkPi/5-chapter.md",
     "AkPi/6-chapter.md",
     "AkPi/7-chapter.md"
+  ]},
+
+  {"SIKT" = [
+    "SIKT/index.md",
+    "SIKT/1-chapter.md",
+    "SIKT/2-chapter.md",
+    "SIKT/3-chapter.md"
   ]}
 ]
 
