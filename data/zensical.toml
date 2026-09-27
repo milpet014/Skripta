@@ -67,7 +67,9 @@ nav = [
   ]},
 
   {"MA2" = [
-    "matalyza-2/index.md"
+    "matalyza-2/index.md",
+    "matalyza-2/formulas.md",
+    "matalyza-2/chapter-1.md"
   ]},
 
   {"SPA" = [

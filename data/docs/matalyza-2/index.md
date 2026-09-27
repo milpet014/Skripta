@@ -2,6 +2,9 @@
 icon: fontawesome/solid/superscript
 --- 
 
+!!! failure "Pozor!"
+    Verzia z 2025/2026
+
 # Matematická analýza 2
 
 ## Základné informácie
