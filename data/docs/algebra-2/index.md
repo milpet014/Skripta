@@ -2,6 +2,9 @@
 icon: fontawesome/solid/square-root-variable
 --- 
 
+!!! warning "Pozor!"
+    Verzia podľa informačného listu z 2025/2026
+
 # Algebra 2
 
 ## Základné informácie

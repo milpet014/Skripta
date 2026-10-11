@@ -2,10 +2,6 @@
 icon: fontawesome/solid/2
 ---
 
-<button class="md-button md-button--primary" onclick="window.print()">
-  Tlačiť
-</button>
-
 # Zaujímavejšie príklady z neurčitého integrálu
 
 ## 1. Substitúcia, pri ktorej nestačí nahradiť iba vnútorný výraz

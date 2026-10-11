@@ -61,16 +61,15 @@ nav = [
     "algebra-2/6-lesson.md",
     "algebra-2/7-lesson.md",
     "algebra-2/8-lesson.md",
-    "algebra-2/9-lesson.md",
-    "algebra-2/tahak-1.md",
-    "algebra-2/tahak-2.md"
+    "algebra-2/9-lesson.md"
   ]},
 
   {"MA2" = [
     "matalyza-2/index.md",
     "matalyza-2/formulas.md",
     "matalyza-2/chapter-1.md",
-    "matalyza-2/chapter-2.md"
+    "matalyza-2/chapter-2.md",
+    "matalyza-2/chapter-3.md"
   ]},
 
   {"SPA" = [
@@ -103,6 +102,14 @@ nav = [
     "SIKT/4-chapter.md",
     "SIKT/5-chapter.md",
     "SIKT/6-chapter.md"
+  ]},
+
+  {"PTRK" = [
+    "PTRK/index.md"
+  ]},
+
+  {"PIB" = [
+    "PIB/index.md"
   ]}
 ]
 

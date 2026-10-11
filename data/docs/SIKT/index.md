@@ -2,6 +2,9 @@
 icon: fontawesome/solid/computer
 --- 
 
+!!! warning "Pozor!"
+    Verzia podľa informačného listu z 2025/2026
+
 # Správa IKT prostriedkov na školách
 
 ## Základné informácie

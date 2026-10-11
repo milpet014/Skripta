@@ -2,6 +2,9 @@
 icon: fontawesome/solid/user-tie
 ---
 
+!!! warning "Pozor!"
+    Verzia podľa informačného listu z 2025/2026
+
 # Školská politika a administratíva
 
 ## Základné informácie

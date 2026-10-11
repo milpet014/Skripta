@@ -1,9 +1,9 @@
 ---
 icon: fontawesome/solid/superscript
---- 
+---
 
-!!! failure "Pozor!"
-    Verzia z 2025/2026
+!!! info "Pozor!"
+    Verzia podľa informačného listu zo 01.09.2026
 
 # Matematická analýza 2
 
@@ -21,7 +21,7 @@ icon: fontawesome/solid/superscript
 | Metóda vzdelávacej činnosti | Prezenčná |
 | Spôsob hodnotenia a skončenia štúdia predmetu | Ukončenie skúškou |
 | Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu | slovenský |
-| Dátum poslednej zmeny | 01.09.2025 |
+| Dátum poslednej zmeny | 16.09.2026 |
 | Schválil | doc. RNDr. Dušan Holý, CSc., univer. prof. |
 
 ## Rozsah vzdelávacej činnosti
@@ -29,7 +29,7 @@ icon: fontawesome/solid/superscript
 | Typ rozsahu | Hodnota |
 |---|---|
 | Týždenný | 2/2 |
-| Za obdobie štúdia | ZS 46,46 / LS 58,58 |
+| Za obdobie štúdia | ZS 46,46 / LS 60,60 |
 
 ## Odporúčaný semester a študijné programy
 
@@ -41,34 +41,36 @@ icon: fontawesome/solid/superscript
 
 - Matematika_Bc (XM_Bc)
 - učiteľstvo pre základné školy pre vzdelávaciu oblasť matematika a informatika (XYVOMaI)
-- učiteľstvo matematiky a výtvarného umenia (XM-Vu-D1)
+- učiteľstvo matematiky a anglického jazyka a literatúry (XM-Aj-D1)
+- učiteľstvo matematiky a biológie (XM-B-D1)
+- učiteľstvo matematiky a etickej výchovy (XM-Ev-D1)
 - učiteľstvo matematiky a histórie (XM-His D1)
 - učiteľstvo matematiky a chémie (XM-Ch-D1)
-- učiteľstvo matematiky a biológie (XM-B-D1)
+- učiteľstvo matematiky a informatiky (XM-I-D1)
 - učiteľstvo matematiky a nemeckého jazyka a literatúry (XM-Nj D1)
 - učiteľstvo matematiky a náboženskej výchovy (XM-Nv-D1)
-- učiteľstvo matematiky a informatiky (XM-I-D1)
 - učiteľstvo matematiky a výchovy k občianstvu (XM-VOD1)
-- učiteľstvo matematiky a anglického jazyka a literatúry (XM-Aj-D1)
-- učiteľstvo matematiky a etickej výchovy (XM-Ev-D1)
+- učiteľstvo matematiky a výtvarného umenia (XM-Vu-D1)
 
 ## Podmieňujúce predmety
 
-— 
+—
 
 ## Podmienky na absolvovanie predmetu
 
 ### Priebežné hodnotenie
 
-Písomný test počas semestra, za ktorý možno získať maximálne 36 bodov.
+Písomný test počas semestra, za ktorý možno získať maximálne 36 bodov. Test prebehne ku koncu semestra.
 
 ### Záverečné hodnotenie
 
-V skúškovom období záverečný test, ktorý pozostáva z riešenia úloh a ktorý študent ústne obhajuje pred skúšajúcim, a tiež ústne skúšanie teórie, spolu za maximálne 64 bodov.
+V skúškovom období záverečný test, ktorý pozostáva z riešenia úloh a tiež z teórie. Za riešenie úloh možno získať maximálne 44 bodov a za teóriu maximálne 20 bodov. Riešené úlohy a tiež teóriu študent ústne obhajuje pred skúšajúcim.
+
+Na získanie jedného z hodnotení **A, B, C, D, E** je potrebné získať z teórie **minimálne 10 bodov**.
 
 ### Ukončenie
 
-Na základe súčtu bodov získaných z priebežného a záverečného hodnotenia.
+Ukončenie skúškou. Na základe súčtu bodov získaných z priebežného a záverečného hodnotenia.
 
 - hodnotenie **A**: najmenej 91 bodov
 - hodnotenie **B**: najmenej 81 bodov
@@ -119,23 +121,19 @@ Pre úspešné absolvovanie predmetu je potrebná realizácia nekontaktnej čast
 
 ## Poznámky
 
-— 
+—
 
 ## Hodnotenie predmetov
 
-| Celkový počet hodnotených študentov | 95 |
+| Celkový počet hodnotených študentov | 140 |
 |---|---|
 
 | A | B | C | D | E | FX |
 |---|---|---|---|---|---|
-| 14 % | 17 % | 14 % | 11 % | 31 % | 15 % |
+| 20 % | 14 % | 13 % | 11 % | 26 % | 16 % |
 
 ## Vyučujúci
 
 - doc. RNDr. Dušan Holý, CSc., univer. prof. — prednášajúci, skúšajúci, cvičiaci, vedúci semináru
-  
-<a href=https://student.truni.sk/maisportal target="_blank">
-    <button class="md-button md-button--primary">
-    Zdroj
-    </button>
-<a>
+
+<a href="https://student.truni.sk/maisportal" target="_blank" rel="noopener noreferrer" class="md-button md-button--primary">Zdroj</a>

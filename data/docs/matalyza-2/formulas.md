@@ -2,9 +2,6 @@
 icon: fontawesome/solid/0
 ---
 
-<button class="md-button md-button--primary" onclick="window.print()">
-  Tlačiť
-</button>
 
 # Integračné vzorce
 

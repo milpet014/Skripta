@@ -2,10 +2,6 @@
 icon: fontawesome/solid/1
 ---
 
-<button class="md-button md-button--primary" onclick="window.print()">
-  Tlačiť
-</button>
-
 # Neurčitý integrál
 
 Neurčitý integrál je v podstate **opačná operácia k derivovaniu**. Pri derivácii poznáme funkciu $F(x)$ a zisťujeme jej deriváciu $f(x)$. Pri integrovaní poznáme $f(x)$ a snažíme sa nájsť funkciu $F(x)$, ktorej derivácia je práve $f(x)$.

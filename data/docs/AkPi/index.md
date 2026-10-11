@@ -2,6 +2,9 @@
 icon: fontawesome/solid/book
 ---
 
+!!! warning "Pozor!"
+    Verzia podľa informačného listu z 2025/2026
+
 # Akademické písanie
 
 ## Základné informácie
