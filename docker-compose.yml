@@ -1,0 +1,31 @@
+services:
+  zensical:
+    image: nginx:stable-alpine
+    container_name: esiete-zensical
+    restart: unless-stopped
+
+    ports:
+      - "8104:80"
+
+    volumes:
+      - ./site:/usr/share/nginx/html:ro
+
+    networks:
+      - proxy
+
+  build:
+    image: zensical/zensical:latest
+    profiles:
+      - tools
+
+    user: "${PUID:-1000}:${PGID:-1000}"
+
+    volumes:
+      - ./:/docs
+
+    command: ["build"]
+
+
+networks:
+    proxy:
+        external: true
