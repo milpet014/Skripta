@@ -123,6 +123,8 @@ Susedné uzavreté intervaly majú spoločný krajný bod. To neprekáža: spolo
 
 ![Delenie intervali](https://cloud.milpet.eu/s/9CLHDAy5CCKCC2j/download)
 
+<p style="text-align: center; font-style: italic;">Obr. 1: Delenie intervalu.</p>
+
 Na obrázku 1 je podstatné rozlíšiť deliace body od úsekov medzi nimi. Body určujú hranice častí; jednotlivé úseky budú neskôr základňami obdĺžnikov.
 
 ## 3. Dĺžky čiastočných intervalov
@@ -332,7 +334,9 @@ Zápis $S_f(D,\xi)$ zdôrazňuje, že výsledok závisí od troch vecí:
 
 Niekedy sa používa skrátený zápis $S_f(D)$. Aj vtedy však treba pamätať na to, že hodnota súčtu vo všeobecnosti závisí aj od zvolených bodov.
 
-![Reinmanov sucet](https://cloud.milpet.eu/s/6LCyNGmwKcFWMnE/download)
+![Reimannov sucet](https://cloud.milpet.eu/s/6LCyNGmwKcFWMnE/download)
+
+<p style="text-align: center; font-style: italic;">Obr. 2: Reimannov súčet.</p>
 
 Na obrázku 2 predstavuje každý obdĺžnik približnú náhradu jednej časti oblasti pod grafom. Súčet obsahov všetkých obdĺžnikov je práve integrálny súčet.
 
@@ -628,7 +632,10 @@ Toto je hlavná myšlienka, ktorá stojí za nezávislosťou výsledku od voľby
 
     Podmienka $a\leq x\leq b$ určuje jej vodorovný rozsah. Podmienka $0\leq y\leq f(x)$ hovorí, že pri každom takom $x$ berieme body od osi $x$ až po graf funkcie.
 
-[plocha-pod-krivkou](https://cloud.milpet.eu/s/Fy4HxNmBy2fmEP7/download)
+![Plocha pod krivkou](https://cloud.milpet.eu/s/Fy4HxNmBy2fmEP7/download)
+
+<p style="text-align: center; font-style: italic;">Obr. 3: Plocha pod krivkou.</p>
+
 
 Obrázok 2 znázorňuje konečné obdĺžnikové priblíženie. Obrázok 3 znázorňuje oblasť, ktorej presný obsah určujeme limitným procesom.
 
