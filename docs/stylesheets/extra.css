@@ -1,0 +1,14 @@
+/* Začiatok číslovania na každej stránke */
+.md-content {
+  counter-reset: priklad;
+}
+
+/* Každá karta príkladu zvýši počítadlo */
+.md-typeset details.priklad {
+  counter-increment: priklad;
+}
+
+/* Číslo v nadpise karty */
+.md-typeset details.priklad > summary .cislo-prikladu::before {
+  content: counter(priklad) " )  ";
+}

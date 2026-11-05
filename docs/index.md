@@ -20,21 +20,4 @@ Obsah je určený predovšetkým na študijné a doplnkové účely. Cieľom je 
 
 Materiály na tejto stránke priebežne vznikajú, upravujú sa a dopĺňajú podľa potreby. Preto sa môže stať, že niektoré časti budú zatiaľ stručné, neúplné alebo rozpracované.
 
-???_ warning "Tlač"
-    Tlač je momentálne **odskúšaná najmä vo Firefoxe**, preto sa odporúča použiť práve Firefox. Pred tlačou si skontrolujte nastavenia formátu papiera:
-
-    - pre **A4** nastavte:
-        - **Paper size:** A4
-        - **Scale:** Fit to page width
-        - **Margins:** Minimum
-        - **Format:** Original
-
-    - pre **A5** nastavte:
-        - **Paper size:** A5
-        - **Scale:** 75 %
-        - **Margins:** Minimum
-        - **Format:** Original
-
-    Pri iných nastaveniach sa môže zmeniť zalamovanie strán, rozloženie nadpisov a celkový vzhľad výstupu.
-
 Prajem, aby ti táto stránka dobre slúžila a uľahčila štúdium aj opakovanie učiva.

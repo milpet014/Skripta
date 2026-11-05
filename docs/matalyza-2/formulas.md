@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/0
+icon: fontawesome/solid/superscript
 ---
 
 

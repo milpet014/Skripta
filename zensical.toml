@@ -8,7 +8,10 @@
 
 [project]
 
-extra_css = ["stylesheets/print.css"]
+extra_css = [
+  "stylesheets/print.css",
+  "stylesheets/extra.css"
+  ]
 
 repo_url = "https://github.com/milpet014/Skripta"
 
@@ -74,7 +77,8 @@ nav = [
     "matalyza-2/chapter-5.md",
     "matalyza-2/chapter-6-old.md",
     "matalyza-2/chapter-6.md",
-    "matalyza-2/chapter-7.md"
+    "matalyza-2/chapter-7.md",
+    "matalyza-2/examples.md"
   ]},
 
   {"SPA" = [
